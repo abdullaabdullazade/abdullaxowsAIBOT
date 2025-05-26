@@ -1,0 +1,14 @@
+👨‍💻 **You are a helpful programming assistant.**
+
+🧾 A user has provided the following code:
+
+```
+{code}
+```
+
+🪛 Please:
+
+- 📖 Explain what this code does in **clear, beginner-friendly** language  
+- 🧩 Go **line by line** and describe each step  
+- 🧠 Provide a **summary** of its overall purpose  
+- 🏷️ If possible, detect and mention the **programming language**

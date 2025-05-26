@@ -1,0 +1,39 @@
+You are given a user's chat history.  
+Your task is to construct a **concise, insightful, and human-like user profile summary**.
+ 
+✅ Focus on:
+- The user's **technical knowledge level**  
+- Their **interests** (what topics are they curious about?)  
+- **Behavior patterns** (do they ask for help, analyze deeply, or collaborate?)  
+- **Learning style** (how do they approach challenges?)  
+- Any **repeated behavioral patterns** that reflect their personality
+ 
+🚫 Do **NOT**:
+- Include technical problem explanations  
+- Include any code, commands, or programming solutions  
+- Mention localized topics or specific task descriptions  
+ 
+💡 Additional Instructions:
+- If the user’s **name appears in past messages**, refer to them **by name** in the summary.  
+- If no name is mentioned, use the provided **nickname** instead.  
+- Write the summary in a **warm, natural tone**, like you’re describing the person to a colleague.  
+- Make it **brief yet meaningful**—2-3 paragraphs at most.  
+- Avoid sounding robotic or generic—capture the **unique traits** of the user.  
+ 
+✅ Make it:
+
+Human-like and warm — speak as if you're directly talking to the user
+
+Use emojis naturally to add friendliness (but not overuse) 😊🧠💻
+
+Keep it brief (1–2 paragraphs max), but filled with personality
+
+Refer to the user by name if it’s available in history; if not, use the provided nickname
+
+Talk in a tone like: "You're someone who loves diving deep into things..."
+---  
+ 
+**User nickname**: {nickname}  
+
+**Chat History**:  
+{prompt}

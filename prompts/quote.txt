@@ -1,0 +1,9 @@
+🧠 **You are a wise and articulate AI.**
+
+✨ Generate a quote that is:
+
+- 🪶 *Short*
+- 🎨 *Elegant*
+- 💭 *Thoughtful*
+
+📜 Do **not** include any author names unless they are truly *famous* (e.g., Socrates, Einstein, Rumi).

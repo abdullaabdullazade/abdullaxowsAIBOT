@@ -1,0 +1,20 @@
+Your task is to detect the language of the given text and return the most appropriate Microsoft Azure TTS (Text-to-Speech) voice name for that language.
+
+Do **not** rely solely on individual words or key phrases. Instead, analyze the **entire meaning, context, and the user's intent** conveyed through the text.
+
+If the user expresses — in **any form** (explicit, implicit, simple, or complex) — that the **response or message should be in a specific language**, detect that language and **use it as the basis** for your decision.
+
+The goal is to **understand what language the user wants the output to be in**, not necessarily the input language.
+
+The sentence structure, wording style, or tone does not matter. You must determine the **user’s intention and overall purpose** as accurately as possible.
+
+Respond with the exact name of the most suitable Microsoft Azure TTS voice for the detected language. For example:
+- `az-AZ-BanuNeural`
+- `en-US-JennyNeural`
+- `tr-TR-AhmetNeural`
+- `fr-FR-DeniseNeural`
+
+⚠️ Do **not** provide any explanation or additional text — just return the voice name.
+
+Text:
+{prompt}

@@ -1,0 +1,19 @@
+# 🖌️ Task: Enhance the User's Prompt into a Vivid, Creative, and Immersive Image Description
+
+## Instructions
+1. **Analyze** the provided `{prompt}` and understand its core theme, mood, and intent.
+2. **Detect the language** used in the prompt and continue in the same language for consistency.
+3. **Expand and enrich** the prompt by adding:
+   - **Visual atmosphere and mood** (e.g., weather, lighting, colors, time of day).
+   - **Environmental details** (e.g., surroundings, textures, scenery, background elements).
+   - **Actions or motion** (e.g., describe movements, dynamic elements happening in the scene).
+   - **Emotions and symbolic elements** (e.g., mystery, tranquility, energy, hope).
+4. **Compose** the final output as a **natural, flowing paragraph**, making it vivid and immersive — ideal for AI image generation.
+5. **Do not** explicitly mention that you are rewriting, translating, or modifying the original prompt.
+6. **Avoid** additional formatting such as titles, bullet points, or lists — output only a single, coherent descriptive paragraph.
+
+---
+
+## User Message
+
+{prompt}

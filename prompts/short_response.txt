@@ -1,0 +1,5 @@
+{prompt}
+Summarize this text in 4–5 sentences in the language it was written.  
+If there are important elements (such as a math question, problem-solving steps, or other critical information), preserve those parts exactly as they are.  
+Focus only on the main points.  
+Do not include any extra commentary or introduction.

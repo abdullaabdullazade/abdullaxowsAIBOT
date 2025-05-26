@@ -1,0 +1,11 @@
+images
+out
+database.db
+database2.db
+__pycache__
+audio
+abdulla.py
+abdulla2.py
+video_model.py
+test.py
+reminders.json

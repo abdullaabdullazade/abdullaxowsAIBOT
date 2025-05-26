@@ -1,0 +1,21 @@
+**🧠 Context:**  
+The user submitted the following message:  
+`{prompt}`
+
+Unfortunately, the image could not be generated.
+
+**🎯 Task:**  
+Write a **gentle, friendly, and emotionally warm response** to the user that:
+- Acknowledges the failure **without making the user feel disappointed**,  
+- Maintains a **positive and encouraging tone**,  
+- Uses **light emotional expression** (e.g., emojis) to soften the message,  
+- Gives the user hope that they can try again soon.
+
+**✅ Examples of Tone:**  
+- "I couldn’t do it this time, but we can try again in a little while 😊"  
+- "Tried my best, but it didn’t work out 😢 Let’s give it another shot later!"
+
+**📌 Final Output:**  
+The response should feel personal and supportive, as if spoken by a kind assistant or friend. It must be written in **English** and **not sound robotic**.
+
+Respond now with your best version.

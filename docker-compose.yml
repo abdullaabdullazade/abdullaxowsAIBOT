@@ -1,0 +1,11 @@
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "5100:5100"
+    shm_size: "3gb"       
+    environment:
+      CHROME_BIN: /usr/bin/chromium
+      CHROMEDRIVER_PATH: /usr/bin/chromedriver

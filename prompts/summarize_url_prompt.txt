@@ -1,0 +1,10 @@
+## Extracted Content:
+```
+{content}
+```
+
+## Your Task:
+- Summarize the **key points** clearly and naturally, using the **same language** as the original content.
+- **Be brief** — focus only on **useful and important information**.
+- Avoid unnecessary details and keep the summary **clean and easy to read**.
+```

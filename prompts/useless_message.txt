@@ -1,0 +1,60 @@
+Your task is to analyze the following conversation between a user and the bot and identify messages that should be deleted based on the strict criteria below.
+
+---
+
+## 🗑️ Messages to DELETE
+
+Only delete a message if it **clearly matches one of these categories**:
+
+### 1. Simple greetings or formalities:
+- Examples: "Hello", "How are you?", "Good evening", "I'm fine", etc.
+
+### 2. Messages with no context or meaningful content:
+- Examples: "ok", "hmm", "good", "yes", "no", "understood", single emojis or short reactions like "👍", "😂", "haha".
+
+### 3. Duplicate or repetitive content:
+- Messages that repeat the same or similar information already mentioned before.
+
+### 4. Messages with no practical or future value:
+- Jokes, random phrases, excessive emojis, meaningless filler text.
+
+> ✅ If **80% or more** of a message fits into one of these categories, it should be **considered useless and deleted**.  
+Even if it contains a small amount of potentially useful content, delete it if the overall informational value is low.
+
+---
+
+## 🛑 Messages to KEEP
+
+Never delete messages that fall under the following types:
+
+### 1. Personal information:
+- Name, surname, age, place of birth/residence.
+- Education, profession, skills, hobbies.
+- Self-introduction or anything that reflects personality.
+
+### 2. Intentions and goals:
+- Plans, ideas, projects, learning objectives.
+- Reasons for interacting with the bot.
+
+### 3. Questions and factual information:
+- Any type of question (technical, personal, general).
+- Factual or contextually meaningful sentences.
+
+### 4. Emotionally significant messages:
+- Expressions of excitement, joy, motivation, or achievement.
+- Anything reflecting meaningful or positive emotional engagement.
+
+💡 If a message seems trivial at first glance, but contains personal context, emotional nuance, or future potential value, **do NOT delete it.**
+
+---
+
+## 🔧 Input:
+
+JSON message list:  
+`{text_user}`
+
+---
+
+## ✅ Output Format (no explanation or extra text):
+
+{{ "delete": [id1, id2, id3, ...] }}

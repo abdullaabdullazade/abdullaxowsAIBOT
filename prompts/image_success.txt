@@ -1,0 +1,11 @@
+The user wrote the following message: "{prompt}"
+
+Based on this message, an image has been generated.  
+Now, write a warm, friendly, and creative response to the user.  
+For example:
+- "Here’s that beautiful scene you asked for! 😍"
+- "All done! I hope you love it 🖼️"
+
+What would your response be?  
+Write only **one** response. If you’re undecided between multiple options, **just pick one** and write that.  
+Do **not** add anything else.
